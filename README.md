@@ -103,4 +103,9 @@ The util package contains utility classes used throughout the project.
 
 The project also includes JUnit test cases for the DAO classes in the test package.
 
+# Future adjustments 
+- Create a seperate leaves report list and print for heads and employees
+- Dark mode cuz my eyes 
+- I'll add some stuff later
+
 For more information about the classes and methods used in this project, please contact me.
